@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Post-test 4 2009106031',
+        title: 'Fazri Gading 2009106031',
         theme: ThemeData(
             fontFamily: 'Manrope',
             appBarTheme: const AppBarTheme(
